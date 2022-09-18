@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\task58_MatrixPow.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\task58_MatrixPow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\task58_MatrixPow.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\task58_MatrixPow.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\task58_MatrixPow.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\bin\Debug\net6.0\task58_MatrixPow.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\bin\Debug\net6.0\task58_MatrixPow.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\bin\Debug\net6.0\task58_MatrixPow.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\bin\Debug\net6.0\task58_MatrixPow.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\bin\Debug\net6.0\task58_MatrixPow.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\task58_MatrixPow.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\refint\task58_MatrixPow.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\task58_MatrixPow.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\task58_MatrixPow.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task58_MatrixPow\obj\Debug\net6.0\ref\task58_MatrixPow.dll

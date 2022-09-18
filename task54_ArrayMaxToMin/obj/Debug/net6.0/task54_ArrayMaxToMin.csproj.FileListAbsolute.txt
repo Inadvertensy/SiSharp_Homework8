@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\bin\Debug\net6.0\task54_ArrayMaxToMin.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\bin\Debug\net6.0\task54_ArrayMaxToMin.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\bin\Debug\net6.0\task54_ArrayMaxToMin.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\bin\Debug\net6.0\task54_ArrayMaxToMin.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\bin\Debug\net6.0\task54_ArrayMaxToMin.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\task54_ArrayMaxToMin.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\task54_ArrayMaxToMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\task54_ArrayMaxToMin.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\task54_ArrayMaxToMin.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\task54_ArrayMaxToMin.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\task54_ArrayMaxToMin.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\refint\task54_ArrayMaxToMin.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\task54_ArrayMaxToMin.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\task54_ArrayMaxToMin.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task54_ArrayMaxToMin\obj\Debug\net6.0\ref\task54_ArrayMaxToMin.dll

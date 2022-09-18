@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\bin\Debug\net6.0\task56_MinSumInRow.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\bin\Debug\net6.0\task56_MinSumInRow.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\bin\Debug\net6.0\task56_MinSumInRow.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\bin\Debug\net6.0\task56_MinSumInRow.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\bin\Debug\net6.0\task56_MinSumInRow.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\task56_MinSumInRow.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\task56_MinSumInRow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\task56_MinSumInRow.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\task56_MinSumInRow.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\task56_MinSumInRow.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\task56_MinSumInRow.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\refint\task56_MinSumInRow.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\task56_MinSumInRow.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\task56_MinSumInRow.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Homework8\task56_MinSumInRow\obj\Debug\net6.0\ref\task56_MinSumInRow.dll

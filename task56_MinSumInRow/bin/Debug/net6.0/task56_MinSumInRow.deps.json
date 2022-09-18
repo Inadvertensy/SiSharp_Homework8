@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task56_MinSumInRow/1.0.0": {
+        "runtime": {
+          "task56_MinSumInRow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task56_MinSumInRow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
